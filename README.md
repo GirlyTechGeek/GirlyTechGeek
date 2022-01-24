@@ -1,0 +1,26 @@
+### Hi there 👋
+
+I'm Anna Asunka a JavaScript enthusiast, but you can call me the GirlyTechgeek.
+
+I love everything tech and very much interested to collaborate on JavasScript projects.
+
+ 🔭 I’m currently working on Angular projects with much consentration on FinTech solutions.
+  
+ - 📫 How to reach me: asunkaa41@gmail.com
+ - 😄 Pronouns: she/her
+
+
+<!--
+**GirlyTechGeek/GirlyTechGeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
