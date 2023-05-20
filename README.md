@@ -7,7 +7,6 @@ I love everything tech and very much interested to collaborate on JavasScript pr
  🔭 I’m currently working on Angular projects with much consentration on FinTech solutions.
   
  - 📫 How to reach me: asunkaa41@gmail.com
- - 😄 Pronouns: she/her
 
 
 <!--
